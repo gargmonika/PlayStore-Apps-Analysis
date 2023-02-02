@@ -49,7 +49,7 @@ Module 2: Visualizing data using Power bi.
 
 
 # DashBoard For Analysis
-[[Google Playstore Dashboard](![image](https://user-images.githubusercontent.com/85965486/216248100-d3a540f0-18b1-40de-9834-01eaa64150bb.png)
+[(![image](https://user-images.githubusercontent.com/85965486/216248100-d3a540f0-18b1-40de-9834-01eaa64150bb.png)
 ](https://youtu.be/rzqq1lyIMpk)
 
 ## License
