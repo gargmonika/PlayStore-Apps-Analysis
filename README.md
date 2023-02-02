@@ -49,20 +49,19 @@ Module 2: Visualizing data using Power bi.
 
 
 # DashBoard For Analysis
-[![image](https://user-images.githubusercontent.com/85965486/216248100-d3a540f0-18b1-40de-9834-01eaa64150bb.png)
-](https://youtu.be/rzqq1lyIMpk)
+![screencapture-app-powerbi-groups-me-reports-bd280c63-369e-4dab-a76b-98539b77ab4c-ReportSection-2023-02-02-01_32_58](https://user-images.githubusercontent.com/85965486/216249876-ce6763ad-c90e-44c7-ac5d-1362ff680199.png)
+
+
+## For More Details And Explanation, Please Refer the Video:
+https://user-images.githubusercontent.com/85965486/216249148-4f8eaeaf-1bf1-4a6c-ba05-4201c42a39cc.mp4
 
 ## License
+
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
 ## 
-
-
-
-
-
 
 ![Contributors](https://img.shields.io/github/contributors/gargmonika/PlayStore-Apps-Analysis)  
 
